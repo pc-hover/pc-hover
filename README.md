@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pc-hover&label=Profile%20views&color=0e75b6&style=flat" alt="pc-hover" /> </p>
 
-- 🔭 I’m currently focusing on enhancing my skills **in backend (Node.js, Express) development**
+- 🔭 I’m currently focusing on enhancing my skills **in backend development**
 
-- 🌱 I’m currently learning **React to level up my frontend development skills and enhance user experiences. Additionally, I'm strengthening my problem-solving abilities through Data Structures and Algorithms to become a more proficient developer.**
+- 🌱Additionally, I'm strengthening my problem-solving abilities through Data Structures and Algorithms to become a more proficient developer.**
 
 - 👯 I’m looking to collaborate on **open-source projects where I can contribute to meaningful initiatives and learn from experienced developers.**
 
 - 🤝 I’m looking for help with **mastering advanced React concepts and best practices. I'm always open to learning from the community and welcome any guidance or resources that can help me grow as a developer.**
 
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **priyanshuchoudhary637@gmail.com**
 
