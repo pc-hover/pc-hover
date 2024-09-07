@@ -6,7 +6,7 @@
   <ul>
     <li>I’m currently focusing on enhancing my skills in backend development</li>
     <li>I’m currently learning TypeScript, Prisma</li>
-    <li>How to reach me: https://twitter.com/priyanshuc002</li>
+    <li>How to reach me: priyanshuchoudhary.official@gmail.com</li>
     <li>⚡ Fun fact: I like Data Structures and Algorithms</li>
   </ul>
 
