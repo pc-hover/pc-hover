@@ -6,8 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Backend+%7C+Full+Stack+%7C+Frontend+Developer;Node.js+%7C+React+%7C+TypeScript+enthusiast;DSA+lover+%7C+Always+learning+%F0%9F%93%9A)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Backend+%7C+Full+Stack+%7C+Frontend+Developer;Node.js+%7C+React+%7C+TypeScript+Enthusiast;Mastering+Problem+Solving+Skill)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -70,9 +69,7 @@ I'm a **Full Stack Developer** passionate about building clean, performant, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pc-hover&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pc-hover&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
 
 <br/>
 
